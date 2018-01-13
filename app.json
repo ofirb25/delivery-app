@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "sdkVersion": "23.0.0",
+    "ios": {
+      "bundleIdentifier": "delivery-app-ofirb25"
+    },
+    "android": {
+      "package": "delivery-app-ofirb25"
+    }
+  }
+}
