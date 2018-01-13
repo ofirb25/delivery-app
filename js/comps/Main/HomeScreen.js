@@ -15,7 +15,7 @@ export default class App extends React.Component {
   componentDidMount() {
     setTimeout(() => {
       this.setState({ isSplash: false })
-    }, 200)
+    }, 2000)
   }
   render() {
     return (

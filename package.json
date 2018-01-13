@@ -2,6 +2,7 @@
   "name": "delivery-app",
   "version": "0.1.0",
   "private": true,
+  "author" : "Ofir Blumshtein",
   "devDependencies": {
     "jest-expo": "23.0.0",
     "react-native-scripts": "1.8.1",
