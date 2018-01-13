@@ -6,7 +6,7 @@ you can see live demo on expo client app at this link :
 
 https://exp.host/@ofirb25/delivery-app
 
-## To run locally on your device process
+## To run locally on your device folllow the process : 
 
   - git clone 
 
